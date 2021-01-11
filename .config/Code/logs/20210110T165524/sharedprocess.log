@@ -1,0 +1,2 @@
+[2021-01-10 16:55:28.995] [sharedprocess] [info] main {"machineId":"6f49d27c8074717d49bdf4f11263670993855360a4143f9ebde3ccfbac6e2ba1","windowId":2}
+[2021-01-10 16:55:29.070] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/marko/.config/Code/User/snippets'

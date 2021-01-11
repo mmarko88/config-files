@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=mmarko88@gmail.com
+Enabled=true
+Parent=d56c7654a29463d82760f8e93d3f2d0924d5fce8
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=84825c4ad8278d6e73f4f840bab551f4d2c52cd3
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=mmarko88@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
